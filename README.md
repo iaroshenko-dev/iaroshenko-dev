@@ -31,4 +31,4 @@
 
 ## Мои продукты
 
-🎙️ [Jupiter — локальная программа голосового ввода текста](https://github.com/iaroshenko-dev/portfolio/tree/main/products/jupiter)
+🎙️ [Jupiter — локальная программа голосового ввода текста](https://github.com/iaroshenko-dev/jupiter-voice-dictation/releases)
