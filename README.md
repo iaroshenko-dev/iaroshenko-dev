@@ -2,12 +2,11 @@
 
 Я — независимый разработчик и исследователь. Работаю на пересечении технологий, искусственного интеллекта, аналитики и предпринимательства.
 
-
 ![Software Development](https://img.shields.io/badge/Software-Development-555555?style=flat-square)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial-Intelligence-555555?style=flat-square)
 ![Automation](https://img.shields.io/badge/Automation-555555?style=flat-square)
 ![Research & Analytics](https://img.shields.io/badge/Research-%26_Analytics-555555?style=flat-square)
-
+![Bug Hunting](https://img.shields.io/badge/Bug-Hunting-555555?style=flat-square)
 
 Занимаюсь разработкой программных продуктов, автоматизацией, применением и внедрением ИИ, анализом данных и независимыми исследованиями. Работаю с задачами из разных областей, в том числе требующими нестандартных решений и проверки гипотез.
 
@@ -32,3 +31,7 @@
 ## Мои продукты
 
 🎙️ [Jupiter — локальная программа голосового ввода текста](https://github.com/iaroshenko-dev/jupiter-voice-dictation/releases)
+
+## Bug Hunting / Технические расследования
+
+🐞 **[Obsidian — расследование регрессии производительности интерфейса](https://github.com/iaroshenko-dev/portfolio/blob/main/cases/obsidian-settings-performance-regression.md)**
